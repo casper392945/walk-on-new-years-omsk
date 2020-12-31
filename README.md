@@ -1,2 +1,2 @@
-# walk-on-new-years-omsk
+# Холод, лед и пламень: прогулка по новогоднему Омску
 GitHub Pages
